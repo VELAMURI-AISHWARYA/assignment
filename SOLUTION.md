@@ -82,3 +82,6 @@ A fully functional secondary marketplace for trading digital securities, integra
 - `app/investing/secondary-trading/page.tsx` — full asset listing with search/filter/sort
 - `app/investing/secondary-trading/[id]/page.tsx` — full detail page with chart, order book, order form, positions
 - `components/portfolio/Portfolio.tsx` — added trading account summary, holdings table, recent orders
+
+### video link of project demonstration
+- `https://drive.google.com/file/d/1Sz2wfST2cxUXtsYG99Arw45P_i6xgSdZ/view?usp=drivesdk`
