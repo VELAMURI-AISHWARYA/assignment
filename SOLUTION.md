@@ -84,4 +84,4 @@ A fully functional secondary marketplace for trading digital securities, integra
 - `components/portfolio/Portfolio.tsx` — added trading account summary, holdings table, recent orders
 
 ### video link of project demonstration
-- `https://drive.google.com/file/d/1Sz2wfST2cxUXtsYG99Arw45P_i6xgSdZ/view?usp=drivesdk`
+- https://drive.google.com/file/d/1Sz2wfST2cxUXtsYG99Arw45P_i6xgSdZ/view?usp=drivesdk
